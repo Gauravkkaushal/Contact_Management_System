@@ -1,0 +1,5 @@
+com\example\contactcrud\ContactCrudApplication.class
+com\example\contactcrud\entity\Contact.class
+com\example\contactcrud\service\ContactService.class
+com\example\contactcrud\controller\ContactController.class
+com\example\contactcrud\repository\ContactRepository.class
